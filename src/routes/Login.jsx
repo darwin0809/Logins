@@ -1,5 +1,5 @@
 import React ,{useContext,useState}from 'react'
-import { UserContext } from '../context/UserProvider'
+import { UserContext } from '../context/UserProvide'
 import { useNavigate } from 'react-router-dom'
 
 const Login = () => {
